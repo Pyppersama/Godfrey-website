@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edcde947.css",
+    "main.js": "/static/js/main.f3d837ed.js",
+    "static/media/dev-ed-wave.png": "/static/media/dev-ed-wave.b5589a62f3661aa31c26.png",
+    "static/media/web4.png": "/static/media/web4.535ba05a4affe6594618.png",
+    "static/media/web1.png": "/static/media/web1.57126dfd2f99217a72eb.png",
+    "static/media/web2.png": "/static/media/web2.29f212d2de4d1c15e297.png",
+    "static/media/web3.png": "/static/media/web3.3339e2b9de02f6668f54.png",
+    "static/media/design.png": "/static/media/design.c9105df783b25d8226a9.png",
+    "static/media/consulting.png": "/static/media/consulting.28cd516983ffe4ca6d05.png",
+    "static/media/web6.png": "/static/media/web6.006dbaa0b7df19259af9.png",
+    "static/media/web5.png": "/static/media/web5.c89ee15f66158af72f9c.png",
+    "static/media/code.png": "/static/media/code.f4f54b48494bb8e30d1a.png",
+    "index.html": "/index.html",
+    "main.edcde947.css.map": "/static/css/main.edcde947.css.map",
+    "main.f3d837ed.js.map": "/static/js/main.f3d837ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edcde947.css",
+    "static/js/main.f3d837ed.js"
+  ]
+}
